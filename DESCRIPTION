@@ -1,0 +1,8 @@
+Package: COOLBEANS
+Type: Package
+Title: Coastal Ocean Oxygen Linked to Benthic Exchange and Nutrient Supply model
+Version: 1.0.0
+Date: 2016-01-13
+Authors@R: person("Daniel", "Reed", email = "daniel@danielreed.org", role = c("aut", "cre"))
+Description: This package is the core of COOLBEANS -- the Coastal Ocean Oxygen Linked to Benthic Exchange & Nutrient Supply model. Functions contained within the package are used to estimate benthic oxygen demand, exchange between surface and bottom waters, carbon burial and remineralisation in sediments, maximum hypoxic area for given conditions, carbon fluxes to sediments, and the sensitivity of coastal regions to changes in vertical exchange and nutrient loading.
+License: GPL-3
